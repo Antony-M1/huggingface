@@ -1,7 +1,7 @@
 
 # Welcome
 
-your going see how to use the hugging Face
+your going to see how to use the hugging Face
 
 ### Getting started with our git and git-lfs interface
 
